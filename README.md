@@ -98,12 +98,16 @@ Interactive Chart
 
 # 🎯 Future Improvements
 Multiple stock comparison
+
 Technical indicators (RSI, MACD)
+
 Real-time stock updates
+
 Portfolio tracking
+
 Dark Mode
 # 👨‍💻 Author
-Yashasree Mada
+Mayuri Matteddula
 
 Aspiring Software Developer passionate about Python, Data Analytics, Machine Learning, and Web Applications.
 
