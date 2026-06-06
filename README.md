@@ -6,17 +6,28 @@ A Stock Market Dashboard built using Python, Streamlit, Yahoo Finance API, Panda
 
 # 🚀 Features
 Search stocks using stock symbols (AAPL, TSLA, MSFT, etc.)
+
 View historical stock data
+
 Interactive stock price charts
+
 50-Day Moving Average (MA50)
+
 Display Highest, Lowest, and Average Closing Prices
+
 Download stock data as CSV
+
 Select different time periods (1 Month, 3 Months, 6 Months, 1 Year, 5 Years)
+
 # 🛠 Technologies Used
 Python
+
 Streamlit
+
 Pandas
+
 Plotly
+
 yFinance
 # 📂 Project Structure
 Stock-Market-Dashboard/
@@ -28,13 +39,13 @@ Stock-Market-Dashboard/
 └── README.md
 # ⚙ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/stock-market-dashboard.git
+    git clone https://github.com/your-username/stock-market-dashboard.git
 2. Move to Project Directory
-cd stock-market-dashboard
+    cd stock-market-dashboard
 3. Install Dependencies
-pip install -r requirements.txt
+    pip install -r requirements.txt
 4. Run the Application
-python -m streamlit run app.py
+    python -m streamlit run app.py
 # 📊 How to Use
 Open the dashboard in your browser.
 Enter a stock symbol (e.g., AAPL).
