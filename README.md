@@ -44,10 +44,15 @@ yFinance
     python -m streamlit run app.py
 # 📊 How to Use
 Open the dashboard in your browser.
+
 Enter a stock symbol (e.g., AAPL).
+
 Select a time period from the sidebar.
+
 View stock data and charts.
+
 Analyze moving averages and statistics.
+
 Download stock data as a CSV file.
 # 📈 Dashboard Features
 Stock Data Table
