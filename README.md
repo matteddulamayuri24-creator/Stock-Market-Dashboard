@@ -1,5 +1,5 @@
 
-#Intern Id: CITS2067
+## Intern Id: CITS2067
 
 # Stock-Market-Dashboard
 A Stock Market Dashboard built using Python, Streamlit, Yahoo Finance API, Pandas, and Plotly. This project allows users to view stock market data, analyze trends, calculate moving averages, and download stock data as CSV files.
@@ -80,7 +80,7 @@ Average Closing Price
 # CSV Export
 Download stock data for further analysis
 # 📷 Screenshots
-Dashboard Home
+# Dashboard Home
 Dashboard
 
 Stock Analysis
