@@ -26,26 +26,21 @@ Pandas
 Plotly
 yFinance
 # 📂 Project Structure
-Stock-Market-Dashboard/
-│
-
-├── app.py
-
-├── stock_analysis.py
-
-├── charts.py
-
-├── requirements.txt
-
-└── README.md
+    Stock-Market-Dashboard/
+    │
+    ├── app.py
+    ├── stock_analysis.py
+    ├── charts.py
+    ├── requirements.txt
+    └── README.md
 # ⚙ Installation
-1. Clone the Repository
+# 1. Clone the Repository
     git clone https://github.com/your-username/stock-market-dashboard.git
-2. Move to Project Directory
+# 2. Move to Project Directory
     cd stock-market-dashboard
-3. Install Dependencies
+# 3. Install Dependencies
     pip install -r requirements.txt
-4. Run the Application
+# 4. Run the Application
     python -m streamlit run app.py
 # 📊 How to Use
 Open the dashboard in your browser.
