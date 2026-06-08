@@ -79,11 +79,11 @@ Lowest Price
 Average Closing Price
 # CSV Export
 Download stock data for further analysis
-# 📷 Screenshots
-# Dashboard Home
-Dashboard
+##  📷 Screenshots
+### Dashboard Home
+! [Dashboard Home]()
 
-Stock Analysis
+###Stock Analysis
 stock data table
 
 Moving Average Analysis
