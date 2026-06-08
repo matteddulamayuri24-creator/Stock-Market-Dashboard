@@ -94,7 +94,8 @@ Moving Average Analysis
 ![Moving Average 3](MovingAverageAnalysis2.png)
 
 Interactive Chart
-![Interactive Chart](Interactivechart.png)
+![Interactive Chart](Interactivechart.png) 
+
 
 # 🎯 Future Improvements
 Multiple stock comparison
