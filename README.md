@@ -87,14 +87,14 @@ Download stock data for further analysis
 ![Stock Data Table](StockAnalysis.png)
 
 Moving Average Analysis
-moving average 1 
+![Moving Average 1](MovingAverageAnalysis.png)
 
-moving average 2
+![Moving Average 2](MovingAverageAnalysis1.png)
 
-moving average 3
+![Moving Average 3](MovingAverageAnalysis2.png)
 
 Interactive Chart
-Interactive Chart
+![Interactive Chart](Interactivechart.png)
 
 # 🎯 Future Improvements
 Multiple stock comparison
