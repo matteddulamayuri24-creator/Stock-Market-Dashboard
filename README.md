@@ -21,9 +21,13 @@ Select different time periods (1 Month, 3 Months, 6 Months, 1 Year, 5 Years)
 
 ## 🛠 Technologies Used
 Python
+
 Streamlit
+
 Pandas
+
 Plotly
+
 yFinance
 ## 📂 Project Structure
     Stock-Market-Dashboard/
