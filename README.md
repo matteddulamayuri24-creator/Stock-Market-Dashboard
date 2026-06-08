@@ -81,7 +81,7 @@ Average Closing Price
 Download stock data for further analysis
 ##  📷 Screenshots
 ### Dashboard Home
-! [Dashboard Home]()
+![Dashboard Home](DashboardHome.png)
 
 ###Stock Analysis
 stock data table
