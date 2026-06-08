@@ -84,7 +84,7 @@ Download stock data for further analysis
 ![Dashboard](DashboardHome.png)
 
 ###Stock Analysis
-![Stock Data Table](stock%20data%20table.png)
+![Stock Data Table](StockAnalysis.png)
 
 Moving Average Analysis
 moving average 1 
